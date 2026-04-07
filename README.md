@@ -66,7 +66,7 @@ Test your existing age estimation model across ethnicities and genders using the
 
 ## Getting the Full Dataset
 
-This repository contains a sample subset. For the full 10,000+ image dataset with commercial license:
+This repository contains a descriprion only. For the samplee and full 10,000+ image dataset with commercial license:
 
 1. **Browse samples** on [Kaggle](https://kaggle.com/datasets/axondata/age-estimation-minors-dataset) or [HuggingFace](https://huggingface.co/datasets/AxonData/age-estimation-minors-face-dataset-10-30)
 2. **Request access** at [axonlab.ai](https://axonlab.ai/dataset/age-estimation-face-dataset/)
